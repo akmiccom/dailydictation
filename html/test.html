@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Dictation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        textarea {
+            width: 100%;
+            height: 100px;
+            margin-top: 10px;
+            padding: 10px;
+            font-size: 16px;
+        }
+        button {
+            margin-top: 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+        }
+        .answer {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f0f0f0;
+            border: 1px solid #ddd;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Daily Dictation</h1>
+        <audio controls>
+            <source src="example.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+        <textarea id="dictationInput" placeholder="Type what you hear here..."></textarea>
+        <br>
+        <button onclick="showAnswer()">Show Answer</button>
+        <div id="answerBox" class="answer">
+            The correct answer is: <strong>Hello, how are you?</strong>
+        </div>
+    </div>
+
+    <script>
+        function showAnswer() {
+            document.getElementById('answerBox').style.display = 'block';
+        }
+    </script>
+</body>
+</html>

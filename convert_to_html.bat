@@ -1,0 +1,2 @@
+pandoc -s --toc markdown/DailyDictation_conversation_English.md -o html/DailyDictation_conversation_English.html
+pandoc -s --toc markdown/DailyDictation_conversation_Japanese.md -o html/DailyDictation_conversation_Japanese.html
