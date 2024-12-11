@@ -341,13 +341,81 @@ Oh, Yes! She asked me to tell you to go in, right away.
 
 ## 42. Would You Call me?
 
+Well, see you tomorrow.
+I'd better go, too.
+Oh, would you do me a favour?
+Sure.
+Would you call me tomorrow at six o'clock in the morning?
+Tomorrow's my daughter's birthday. I wanna get her a new robe,
+and I have to pick up the dry cleaning, and pick up the cake from the bakery.
+Anyway, I have lots of things to do.
+But I'm not sure I can get up early.
+Do you need a hand?
+Oh, can you? That would be great.
+Can you go to the mall and buy her a new robe,
+pick up the dry cleaning, and get the cake from the bakery?
+And what will you be doing?
+Sleeping in of course!
+
 ## 43. Can I Let You Know?
+
+Are you going out with Leonard tonight?
+Uh huh. He's supposed to pick me up at 6:30 What time is it now?
+5:45. You'd better get going.
+You're kidding. I haven't even taken a shower.
+Where are you going?
+We haven't made up our minds yet. Maybe to a movie, maybe to a party.
+Go and see Forrest Gump. It's supposed to be interesting.
+Oh, maybe we will. I've heard The Sixth Sense is good, too.
+Well, personally I prefer Forrest Gump.
+I really should be going. Do you wanna go shopping tomorrow?
+I'd like to go, but it depends.
+I might have to go to the store tomorrow and do some work.
+Can I let you know first thing in the morning?
+OK, that would be all right.
+Oh, there's the phone. It must be Leonard.
+Well, I'll be going. Call me tomorrow.
+I will. Have a good evening.
+You too.
 
 ## 44. A Less Formal Call
 
+Good afternoon, Scott and Smith. May I help you?
+May I speak to Mr. Scott or Mr. Smith, please?
+I'm sorry, they aren't here right now. Who's calling, please?
+George Martin.
+Is there any message I can take, Mr. Martin?
+No, I'll call back later.
+Thank you for calling Scott and Smith.
+
 ## 45. A Cup of Coffee
 
+Can I get you something to drink?
+A cup of coffee, please.
+With milk and sugar?
+A little milk, but no sugar.
+I never drink coffee at night.
+Why not?
+It keeps me awake.
+What do you drink with supper?
+Tea, it helps me relax.
+I don't like tea.
+There are so many kinds of tea;
+maybe you should shop around and try to find one you like
+because coffee is bad for you.
+That's a good idea.
+
 ## 46. How About a Drink?
+
+How about a drink, tonight?
+I'd love to.
+Where can we meet?
+How about the Relax Bar?
+All right. What time?
+Is eight o'clock OK?
+Yes that's fine.
+I will meet you there; I'm really looking forward to it!
+Me too!
 
 ## 47. I Have a Sore Throat
 
@@ -357,7 +425,7 @@ Oh, Yes! She asked me to tell you to go in, right away.
 
 ## 50. Cold and Windy
 
-## 51. It's Beginning to Snow.
+## 51. It's Beginning to Snow
 
 ## 52. A House at the Shore
 
@@ -700,13 +768,75 @@ Well, they will come over this Christmas.
 Let's have a great Christmas party together.
 That's a good idea.
 
-## 90. Applying for a jo
+## 90. Applying for a job
+
+Come in... come in. It's Miss Wallace, isn't it?
+Yes, that's right. How do you do?
+How do you do? Please take a seat.
+Thank you very much.
+Well, I've got your application form here.
+I just want to check the information... is that all right?
+Yes, of course.
+Now, you're 28, aren't you?
+Yes, I am.
+And you aren't married, are you?
+No, I'm not... yet; I'm engaged.
+Uh, huh. You didn't go to university?
+No, I didn't, but I went to technical college.
+And I started work when I was 20.
+I see. You can speak Spanish, can't you?
+Yes, I can... but I can write it better than I can speak it.
+Is there any other language you can speak?
+Yes, I can speak a little French.
+You've been to Argentina, haven't you?
+Yes, I have... and to France.
+So I see... but you haven't been to the Middle East, have you?
+No, I'm afraid I haven't, but I'd like to.
+Good, because there is a demand for multi-lingual people in this job.
+I think you will do just fine!
+Thank you so much! I won't disappoint you!
 
 ## 91. Giving Directions
 
+Now let's see... Vine Street is that way...
+Yes, just turn left at this corner.
+To Bridge Street?
+Is that street Bridge Street?
+Yes. There is a sign. Can you see that?
+Oh, you're right. Well, I have to go to Jay Street.
+I think the next one is Jay Street.
+Oh, right. Let's turn left at the next corner.
+Diana! This street is College Street, not Jay Street.
+Oh... uh, go straight ahead one more block!
+Are you sure? It's already 4:20!
+I should have taken a cab!
+That's gratitude for you!
+
 ## 92. Talking about pets
 
+Do you have any pets at home?
+Yes, I have a dog and a cat.
+They're both really friendly.
+That sounds nice! What are their names?
+The dog's name is Max, and the cat's name is Whiskers.
+Do you have any pets?
+Not right now, but I used to have a turtle named Tiny.
+He was really cute.
+Turtles are great!
+They don't need too much attention but are still fun to watch.
+
 ## 93. Where is the post office
+
+Excuse me. I'm trying to find the nearest post office.
+Can you help me?
+Sure. It's not far from here.
+Just go straight down this road for about three blocks.
+You'll see a bakery on your right.
+The post office is right next to it,
+you can't miss it.
+Thank you! Do you know what time it closes?
+I think it closes at 5 PM.
+You should have plenty of time if you go now.
 
 ## 94. Meeting an old friend
 
