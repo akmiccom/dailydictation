@@ -264,10 +264,50 @@ Not if you don't run into any government delays.
 
 ## 22. Employing a new member
 
+Well, this woman may be suitable for the job.
+But is she energetic enough?
+Yes, she certainly seems to have lots of energy.
+Mmm. She's got to be ambitious too. Is she?
+Yes, she has plenty of ambition.
+And we really need a flexible sort of person. Do you think she is?
+Mmm. She seems to be determined enough, but she's a little tough.
+Well I guess we'll give her a try, and see how she works out!
+
 ## 23. A Date (1)
+
+What are you so happy about? You're grinning from ear to ear.
+Sandy and I are going to go out this weekend.
+Oh, yeah? That's fast work. That's great!
+Which night are you going to see her, Friday or Saturday?
+On Friday. She isn't going to be in town on Saturday and Sunday.
+She's going to visit a friend in Quebec.
+What are you going to do on Friday?
+I don't know yet. Do you have any ideas?
+How about taking her to a Chinese restaurant?
+I've heard that she likes Chinese food.
+That's a great idea.
+What are you going to wear on your date?
+I'm going to wear my new suit.
+That's too formal. Wear your jeans and a T-shirt.
+How about your sports jacket?
+Are you going to wear it on Friday night?
+No, I am not. Go ahead and wear it.
 
 ## 24. What did you do yesterday?
 
+Hi, how are you?
+You look tired.
+Did you sleep okay last night?
+No, I didn't.
+Why? What did you do yesterday?
+I went to a nightclub last night and danced all night.
+Oh, yeah? Did you have a good time?
+I had a wonderful time, but I'm beat today.
+What time did you leave the nightclub?
+I left at about 3:00 a.m.
+I'm not surprised that you're tired.
+Which nightclub did you go to?
+Fantastic. It's on Ontario Street. It's really nice.
 
 ## 25. Travelling by Air
 
@@ -443,7 +483,29 @@ Me too!
 
 ## 59. A Nice Flat (1)
 
+This is a nice flat.
+Mmm...
+There's a living room. There's a kitchen, a bedroom,
+and a bathroom and there's a bidet!
+What's a bidet?
+It's like a toilet, only better,
+I'll let you figure it out!
+Well, none of my friends have a bidet, and even if I don't know what it is,
+they will be very jealous when I tell them!
+
 ## 60. A Nice Flat (2)
+
+Well, here's the kitchen.
+Hmm... It's very small.
+Yes, it isn't very large, but there's a cooker and a fridge.
+There are some cupboards under the sink.
+Are there any plates?
+Yes, there are.
+Good. Are there any chairs in here?
+No, there aren't, but there are some in the living room.
+Hmm. There aren't any glasses!
+Yes, there are! They're in the cupboard.
+and... er... where's the toilet?
 
 ## 61. Afraid of Flying
 
@@ -478,6 +540,21 @@ Well, I wish you the best of luck.
 Thanks, take care.
 
 ## 65. We Eat a Lot
+
+Did you see my car keys?
+They're on top of the TV.
+You're right. Thanks!
+Where are you going?
+To the supermarket.
+Again?
+Yes, we eat a lot.
+Do you want me to go with you?
+Sure, if you can.
+Good. The packages will be heavy.
+There's a new health store right up the road;
+maybe since you guys eat a lot you should try and eat more healthily.
+Maybe you're right;
+we have all put on a little weight.
 
 ## 66. I'll Take You
 
