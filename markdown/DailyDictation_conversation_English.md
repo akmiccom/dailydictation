@@ -311,19 +311,132 @@ Fantastic. It's on Ontario Street. It's really nice.
 
 ## 25. Travelling by Air
 
+Do I check in here for Air Canada to Mexico?
+You already have your ticket?
+Yes. Here you are.
+Thank you. Can you put your luggage up here, please?
+Sure, I have three suitcases.
+We allow only two pieces. You'll have to pay an extra charge.
+Oh! Can I carry this one with me?
+No, I'm sorry. It won't fit under your seat.
+That's $45.
+Here you are.
+Thank you. You can choose your seat.
+A window seat or aisle seat?
+I'd like a window seat, please.
+Fine. Seat 15A.
+Here's your ticket and your boarding pass.
+Enjoy your flight!
+
 ## 26. At the Customs
+
+Good morning. Can I see your passport?
+Certainly. Here it is.
+Yes, that's all right. Have you got anything to declare?
+Yes, I have. I've got some whisky and some cigarettes.
+How much whisky have you got?
+A litre.
+That's all right. And how many cigarettes have you got?
+200.
+Fine. What about perfume?
+Er... No, I haven't.
+Good. Open your case, please.
+Pardon?
+Open your case, please. Open it now!
+Oh, dear! Look at this!
+You've got 3 bottles of whisky, 400 cigarettes and a lot of perfume!
+Does that mean I can't go?
 
 ## 27. A New Baby
 
+Well, hello, Mr Wallace.
+You seem unusually happy today.
+I just became a father!
+Congratulations. A boy or a girl?
+You never saw such a cute girl.
+Nine pounds, three ounces... and as cute as a button.
+Doesn't this call for cigars?
+Oh, yes. I forgot about the cigars. Here, have one.
+Thank you. How's your wife?
+She's just fine.
+
 ## 28. Is English Difficult?
+
+Where are you going?
+To Canada.
+Why are you going there?
+I'm going to learn English;
+there's a school there that has an excellent program.
+Is learning English going to be difficult?
+Yes. I have to study and practice a lot.
+Where's your school?
+It's in a town called St. Catharines in Ontario.
+I'm jealous, I'll bet you're excited.
+Yes, but I'm also really nervous.
 
 ## 29. Washing His Car
 
+Where's Kevin?
+He's in front of the house.
+What is he doing?
+Washing his car.
+Not again?
+Yes, he takes good care of his car.
+But he never cleans his room.
+I know. It's always dirty.
+And nothing is in order.
+You're right. His room is a mess.
+Maybe he should move into the car!
+
 ## 30. At the Restaurant
+
+This is a big menu.
+Yeah, what are you getting?
+Chicken, peas, and baked potatoes.
+I don't know what to get.
+They have very good turkey.
+I had turkey yesterday.
+How about steak?
+Perfect. I'll get steak and mashed potatoes.
+What vegetable are you getting?
+I'm not getting any. I don't like vegetables.
 
 ## 31. When's the Baby Due?
 
+I have some good news.
+What is it?
+Lisa is going to have a baby.
+That's great! I'm so happy for her.
+Me too!
+Do they want a boy or a girl?
+A girl.
+When's the baby due?
+In the beginning of September.
+I'm gonna phone Lisa tonight.
+That's nice. Say hello for me.
+
 ## 32. Bus Stop
+
+Jean!
+Barbara! Do you work around here?
+Yes, I work in that building across the street.
+Really? What do you do?
+I work in a law office, I'm a secretary.
+Oh, that's interesting.
+What about you? What do you do?
+I work at Duru Restaurant.
+Oh... are you a cook?
+No, I'm a waitress.
+That's a really hard job; I don't envy you.
+Me neither!
+Do you live alone, Jean?
+No, I don't. I live with my family. How about you?
+I'm married now. I got married last year.
+Really? Congratulations! Who did you marry?
+His name's Jeff Hunt. He lives in my building.
+Oh, what does he do?
+He's a doctor.
+How wonderful, I'm very happy for you!
 
 ## 33. Gardening
 
@@ -338,17 +451,105 @@ Yes. His work is more than satisfactory.
 
 ## 34. A Lazy Boy
 
+I'm very angry with my son, Harry.
+Why? What's the problem?
+He's not doing well in school.
+That's a surprise. Harry's a smart boy.
+Yes, but he never studies.
+Did you talk to his teachers?
+Yes, I did.
+What did they say?
+He's a nice boy, but he's very lazy.
+Maybe they're right.
+I'm afraid so.
+Have you thought about getting him a tutor?
+Maybe that's a good idea; I really want him to excel.
+Let's go look in the phone book now then.
+
 ## 35. Can I Drive There?
+
+What time is it?
+It's three o'clock.
+Oh no, I'm late.
+Where are you going?
+To the dentist.
+Can I drive you there?
+Sure! That will help.
+Do you have a toothache?
+Yes, and it's very bad.
+I'm sorry to hear that.
+I've had it for weeks, and this is the first time that I could get in.
+My dentist is always so busy!
+I guess that's a good thing! It means a lot of people like him.
 
 ## 36. A New Dress
 
+Who is it?
+It's me, dear.
+Don't you have your key?
+No, let me in!
+What's in that box? What did you get?
+A new dress, honey.
+But you have a closet full of dresses.
+I know, but I need a new one.
+What's wrong with all the other dresses?
+They're not this one!
+
 ## 37. A picnic
+
+Let's go for a picnic.
+That's a great idea! Where shall we go?
+Let's go to the park.
+How far is it?
+About a mile.
+Is it a nice place?
+Sure. It has picnic tables and a beautiful lake.
+Good. I'll make some sandwiches.
+I'll bring soda and cookies.
+The kids will love it.
 
 ## 38. I'm Going Skiing
 
+We got ten inches of snow.
+Wow! That's terrific!
+What's so terrific about it?
+I'm going skiing.
+Skiing? Are you serious?
+Yes. It's a lot of fun.
+Maybe, but it's also dangerous.
+You need to live on the edge!
+And you need to make sure you don't fall off of it!
+
 ## 39. Traffic Rules (1)
 
+Sara, you can't park here! It's a bus stop.
+Oh, we'll be back in a few minutes. It's OK.
+Oh, no, it isn't. You'll get a parking ticket if you leave it here.
+No, I won't. It's 5:30. All the traffic wardens have gone home.
+Sara!
+Yes?
+Is this your car, ma'am?
+
 ## 40. Housework
+
+Whew! I'm really tired and now I have to go home and cook.
+Do you make dinner every night?
+Yes, I usually make dinner, and my husband washes the dishes.
+I live alone, so I do everything. Sometimes I eat out, though.
+There are some good restaurants in my neighbourhood.
+Where do you live?
+Near the Pen Centre.
+Oh, that's good.
+There aren't any good restaurants near my house.
+Does your husband help you do housework much?
+Umm... yes. He sets the table almost every night, and he makes our bed every morning.
+But I usually make all the meals.
+How about cleaning?
+We clean the house together every weekend.
+I vacuum the rooms, and he usually sweeps the floor of the kitchen,
+and he does yard work.
+Your husband helps you so much. Does he help do the laundry too?
+Well, he's never helped me do the laundry.
 
 ## 41. Oral Exams
 
@@ -459,27 +660,168 @@ Me too!
 
 ## 47. I Have a Sore Throat
 
+You sound terrible.
+I have a sore throat.
+You should rest your voice.
+I know. It hurts when I talk.
+What are you taking for your throat?
+Hot tea and honey.
+That should help. Are you going to work today?
+No, I'm staying home.
+Good idea.
+I'll feel better tomorrow.
+I hope so.
+
 ## 48. On Sale
+
+Do you like my new coat?
+It looks terrific!
+I'm glad you like it.
+How much was it?
+$80.
+That's a good price.
+Yeah, it was on sale.
+Where did you get it?
+At Sears.
+I like to shop there, too;
+they always have really good sales!
+Maybe you should go there today,
+they have a sale on shirts if you're interested.
+Good idea! I need some.
 
 ## 49. Not a Cloud in the Sky
 
+What a beautiful day!
+Yes, there's not a cloud in the sky.
+What's the temperature?
+It's 70 degrees.
+I love October.
+Me too. It's not too hot and not too cold.
+Fall is my favourite season.
+Mine, too.
+The weather is almost perfect.
+And the leaves are very pretty when they change colours.
+
 ## 50. Cold and Windy
+
+Is it cold out?
+Yes, it's cold and windy!
+I'm going to wear my heavy coat.
+Good idea! Where are you going?
+To the post office.
+Why?
+To mail this package.
+Would you buy some stamps for me?
+Sure. How many do you want?
+Ten.
+Here's the money for the stamps.
+Okay. I'll be back in twenty minutes, unless I get blown away!
 
 ## 51. It's Beginning to Snow
 
+Do you like snow?
+No! I hate it!
+Why? Snow is so pretty.
+Yes, but I don't like to drive in it.
+Well, it's beginning to snow.
+And I have to drive to work.
+How far is it to work?
+Six miles. Are we going to get much snow?
+About twelve inches, they say.
+Oh no! Driving will be dangerous!
+Please be careful!
+I will, by the way, can I borrow your car?
+
 ## 52. A House at the Shore
+
+When is your vacation?
+It starts next week.
+Where are you going?
+We're renting a house on the shore.
+That's wonderful!
+Yes, we love the ocean.
+Do you swim a lot?
+Not very much.
+Then, why are you going to the shore?
+Because we all bought new swimsuits!
 
 ## 53. A Soccer Game
 
+I'm going to play soccer.
+Who are you playing with?
+Some friends from work.
+Are you a good soccer player?
+Yes, but I'm not the best player on the team.
+What time does the game begin?
+Nine o'clock.
+Why don't you come with me?
+I can't today. I'm very busy.
+Okay. See you later.
+I hope your team wins.
+
 ## 54. Not So Young
+
+My son is graduating from high school today!
+And my daughter is graduating next year.
+How old is she?
+She's sixteen.
+I remember when she was a baby.
+I know. We're getting old.
+Don't say that!
+Why not? It's true.
+No, it isn't. We were young when we got married.
+That's right, but we got married 25 years ago!
 
 ## 55. Is She Single?
 
+Today is my cousin's birthday.
+What's your cousin's name?
+Kathy. I'm going to her house after dinner.
+How old is she?
+She's 24
+Hmm. She's my age.
+Is she pretty?
+Yes, and she's very nice, too.
+Is she single?
+No, she's married and has two children.
+Oh that's too bad.
+Not for her!
+
 ## 56. To Buy a Birthday Present
+
+What are you getting Jim for his birthday?
+I don't know yet.
+You can always get him a shirt.
+But I got him one last year.
+Oh, that's right. Let me think.
+I want to get him something different.
+How about a briefcase?
+Good idea! His briefcase is getting old.
+And it's something he'll use every day.
+Of course! Why didn't I think of that?
 
 ## 57. Telephone
 
+Hello?
+Hello, is Mary there?
+I'm sorry, you have the wrong number.
+Oh... is this 685-5290?
+No, it's not.
+I'm sorry.
+That's OK
+
 ## 58. A Light Eater
+
+Would you like anything else? You haven't eaten very much.
+No, thanks. I'm already full.
+Oh, come on. Have some more.
+No, I really can't. I've never been much of an eater.
+Have some coffee then.
+That would be nice.
+How do you take it?
+With sugar please, no cream.
+Here you are.
+Thank you.
 
 ## 59. A Nice Flat (1)
 
@@ -509,7 +851,27 @@ and... er... where's the toilet?
 
 ## 61. Afraid of Flying
 
+Where is your meeting?
+In Dallas, Texas.
+How are you going?
+By plane.
+Do you like to fly?
+Sure. It's fast and comfortable.
+I'm afraid of flying.
+That's silly. Flying is very safe.
+Maybe, but I don't feel safe in a plane.
+I understand. A lot of people feel that way.
+
 ## 62. A Plane Reservation
+
+I'd like to reconfirm my plane reservation.
+What flight are you taking?
+Flight 207.
+And your name, please?
+Henry Chandler.
+Yes, sir. You're booked on Flight 207.
+Please check in at the airport an hour before flight time.
+Thank you.
 
 ## 63. Getting Together
 
@@ -558,15 +920,87 @@ we have all put on a little weight.
 
 ## 66. I'll Take You
 
+Diana!
+Oh, George... hi, how are you?
+Listen, I'm in a terrible hurry.
+The bank closes in twenty minutes.
+Is your bank near here?
+Yes, it's only four blocks away, on Vine Street.
+Well, get in. I'll take you.
+Are you sure? It's not out of your way?
+No, not at all.
+That is so nice of you, George. Thank you.
+You're welcome.
+
 ## 67. We Must be Out of Them
+
+Hi! Sorry I'm late. I missed the bus.
+Oh, that's OK. I had time to clean up before you came.
+You don't look very good.
+I must be getting a cold. I've been sneezing all day.
+A-A-ATCHOO!
+Bless you.
+Thank you.
+You must be getting a cold.
+Why don't you go lie down? I'll bring you some aspirin.
+I don't see any aspirin in the medicine cabinet.
+We must be out of them.
+I'll go to the drugstore. Is there anything else we need?
+Could you get some... ATCHOO...
+I don't know if they sell ATCHOO here, but I'll check!
 
 ## 68. Doctor's Appointment
 
+When can I see Dr. Know?
+He won't be free until tomorrow.
+Can I make an appointment?
+Sure. How about tomorrow at ten o'clock?
+Can you make it at nine?
+I'll check to see if he's available.
+I'm sorry but he's tied up until ten o'clock.
+Well, can't you squeeze me in, somehow?
+I'm afraid not.
+How about after lunch?
+Will one o'clock be all right?
+That's perfect. Thank you.
+
 ## 69. Traffic Rules (2)
+
+Excuse me. May I see your licence?
+I'm afraid I've left it at home.
+In that case, you'll have to take it to the police station within five days.
+But why?
+You were speeding, ma'am.
+But I was only doing 75!
+There's a 70km/h speed limit on this road, ma'am.
+Is there? I didn't see a sign...
+Well, ma'am. We've been following you.
+So you were doing 75, too.
+No, ma'am. We were doing 90km/h... and we couldn't catch you!
 
 ## 70. Eating out
 
+Waiter! Could we have the bill, please?
+Can I put it all on one bill?
+No, we'd prefer separate checks.
+Your bill's $18.
+That seems expensive. Would you check it again please?
+Sorry, ma'am. This is your friend's bill.
+Here is yours; it's $24.16!
+
 ## 71. To Buy a Bus Ticket
+
+Excuse me...
+Yes. Can I help you?
+Yes, I'd like some information about buses please.
+Where to?
+...to Toronto.
+When?
+This Saturday.
+Morning or afternoon?
+In the afternoon. About three o'clock.
+There's one at 3:20.
+Thank you! That sounds perfect; I'll take it!
 
 ## 72. On the Phone
 
@@ -917,11 +1351,61 @@ You should have plenty of time if you go now.
 
 ## 94. Meeting an old friend
 
+I can't believe it's been almost five years since we last saw each other.
+Yeah, it's crazy how time flies.
+How have you been?
+I've been good! I just moved to a new city for work.
+What about you?
+I've been busy with my job too, but I'm still in the same place.
+Are you liking your new city?
+Yes, it's great!
+There's so much to explore.
+I just miss some old friends.
+We should catch up more often and not let so much time pass.
+
 ## 95. Using public transportation
+
+Did you take the bus to work today?
+Yes, I did.
+It was on time today.
+How about you?
+I took the subway.
+It was a bit crowded but faster than the bus.
+Do you think you'll keep using the subway or try the bus sometime?
+I'm not sure.
+The subway is faster, but the bus has nice views.
+I understand.
+Both have good and bad points.
 
 ## 96. Cafeteria menu
 
+Do you know what's on the menu at the cafeteria today?
+They have grilled chicken,
+a vegetarian pasta,
+and a soup of the day.
+Do you know if they have any gluten-free options?
+I'm trying to avoid gluten.
+Let me check...
+Okay, the grilled chicken is gluten-free.
+They also have a quinoa salad that should be safe.
+Great, thanks!
+Do you have any idea what the soup of the day is?
+I think it's mushroom soup,
+but you might want to ask them to be sure.
+
 ## 97. Weekend plans
+
+It's been raining all week.
+Any plans for the weekend?
+I was hoping to go hiking,
+but it doesn't look promising with this weather.
+How about you?
+I had plans to visit the beach, but I might have to cancel, too.
+Have you checked the forecast?
+Any chance it'll clear up?
+Not really.
+Looks like we might need to find some indoor activities instead.
+Maybe we could just watch some movies or read a book.
 
 ## 98. Visiting a national park
 
